@@ -42,17 +42,7 @@ The analysis included:
 - **Matplotlib** — Data visualization.
 - **Seaborn** — Statistical data visualization.
 
-## Exploratory Data Analysis
 
-The analysis covers the following stages:
-
-1. **Data Loading and Initial Inspection:** Loading the dataset and examining its structure.
-2. **Data Cleaning and Validation:** Checking for missing values, duplicate records, and potential data quality issues.
-3. **Descriptive Statistical Analysis:** Examining summary statistics to understand the numerical features.
-4. **Univariate Analysis:** Exploring individual variable distributions using histograms and other plots.
-5. **Bivariate Analysis:** Investigating relationships between physicochemical properties and wine quality.
-6. **Correlation Analysis:** Using a correlation matrix and heatmap to examine relationships among numerical variables.
-7. **Insight Generation:** Interpreting visualizations and summarizing important patterns discovered during the analysis.
 
 ## Dataset Features
 
