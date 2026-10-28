@@ -86,7 +86,7 @@ The `quality` variable represents the wine quality score and serves as the prima
 The notebook includes visualizations such as:
 
 - Wine quality distribution.
-<img width="1436" height="923" alt="Image" src="https://github.com/user-attachments/assets/2176ad57-fe9d-4331-8af1-96eb9bf99700" />
+<img width="1436" height="923" alt="Image" src="https://github.com/user-attachments/assets/4bc6cbca-a68d-40c7-a307-1b1f17fe5fea" />
 
 - Scatter plot of alcohol content and sulphates by wine quality.
 <img width="1385" height="941" alt="Image" src="https://github.com/user-attachments/assets/2d2504b9-c327-4fa4-bd35-dd19d4bae352" />
