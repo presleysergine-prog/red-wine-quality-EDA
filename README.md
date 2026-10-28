@@ -42,8 +42,6 @@ The analysis included:
 - **Matplotlib** — Data visualization.
 - **Seaborn** — Statistical data visualization.
 
-
-
 ## Dataset Features
 
 The dataset includes the following variables:
